@@ -1,0 +1,85 @@
+.container{
+	width: 80%;
+	margin: auto;
+}
+h1{
+	text-decoration: black underline;
+	border: dashed 5px #313A46;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	width: 40%;
+	margin:auto;
+	text-transform: uppercase;
+}
+h4{
+	background-color: tomato;
+	width: 150px;
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+	border: 1px solid #313A46;
+	text-indent: 20px;
+	margin: 0px;
+}
+.link:hover{
+	background-color: #313A46;
+}
+p{
+	text-indent: 20px;
+	margin: 20px;
+}
+
+body{
+	background-color: #E4E8EC;
+	font-family:Arial ;
+	line-height: 1.6em;
+	text-align: center;
+}
+
+.article-1{
+	background-color: #313A46;
+	border: solid 2px black;
+	border-radius: 2%;
+	padding: 10px;
+	color: white;
+}
+.article-1:hover{
+	background-color: Tomato;
+}
+
+h2{
+	background-color: #1B6B8F;
+	border: solid 1px black;
+	padding-left: 1em;
+	text-align: left;
+	;
+}
+
+.author{
+	font-size: .5em;
+}
+
+.article-2{
+	background-color: #313A46;
+	border: solid 2px black;
+	border-radius: 2%;
+	padding: 10px;
+	color: white;
+}
+.article-2:hover{
+	background-color: Tomato;
+}
+.article-3{
+	background-color: #313A46;
+	border: solid 2px black;
+	border-radius: 2%;
+	padding: 10px;
+	color: white;
+}
+.article-3:hover{
+	background-color: Tomato;
+}
+
+.button:hover{
+	background-color: tomato;
+
+}
